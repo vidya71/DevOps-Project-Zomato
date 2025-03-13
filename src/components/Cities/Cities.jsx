@@ -76,7 +76,7 @@ const Cities = () => {
         <div className="city">
           <div className="cityLeft">
             <h3>C G Road</h3>
-            <span>100 Places</span>
+            <span>110 Places</span>
           </div>
           <div className="icon">
             <ChevronRightIcon />
